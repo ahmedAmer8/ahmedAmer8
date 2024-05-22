@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural language processing and Generative AI**
+- 💬 Ask me about **Machine Learning, Deep Learning, Natural language processing, Generative AI, Computer science and Problem solving**
 
 - 📫 How to reach me **ahmed.mohammad.amer@gmail.com**
 
