@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamer8&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamer8" /> </p>
 
+- 📄 Here is my [Resume](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedAmer8](https://github.com/ahmedAmer8)
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **ahmed.mohammad.amer@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)
+- 📄 [https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
