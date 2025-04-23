@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **ahmed.mohammad.amer@gmail.com**
 
-- 📄 [https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
