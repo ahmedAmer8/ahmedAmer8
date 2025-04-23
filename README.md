@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedAmer8](https://github.com/ahmedAmer8)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Natural language processing and Generative AI**
 
 - 📫 How to reach me **ahmed.mohammad.amer@gmail.com**
