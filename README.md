@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamer8&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamer8" /> </p>
 
-- 📄 Here is my [Resume](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)
+- <h3> 📄 Here is my [Resume](https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing)</h3>
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- <h3> 🌱 I’m currently learning **Data Science and Machine Learning**</h3>
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Natural language processing and Generative AI**
+- <h3> 💬 Ask me about **Machine Learning, Deep Learning, Natural language processing and Generative AI**</h3>
 
-- 📫 How to reach me **ahmed.mohammad.amer@gmail.com**
+- <h3> 📫 How to reach me **ahmed.mohammad.amer@gmail.com**</h3>
 
 
 <h3 align="left">Connect with me:</h3>
