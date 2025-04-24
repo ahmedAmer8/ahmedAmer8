@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamer8&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamer8" /> </p>
 
 <h3>📄 Here is my: <a href="https://drive.google.com/drive/folders/1-F5Avy_cGXjZ53XiWip-vF1LnBrx6Wze?usp=sharing" target="_blank">Resume</a></h3>
-<h3>📫 How to reach me: <a href="mailto:ahmed.m.amer821@gmail.com">ahmed.mohammad.amer@gmail.com</a></h3>
+<h3>📫 How to reach me: <a href="mailto:ahmed.m.amer821@gmail.com">ahmed.m.amer821@gmail.com</a></h3>
 <h3>🌱 I’m currently learning Data Science and Machine Learning</h3>
 <h3>💬 Ask me about Machine Learning, Deep Learning, Natural Language Processing, and Generative AI</h3>
 
