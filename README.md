@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Amer</h1>
-<h3 align="center"> Data Scientist<br><br> AWS Certified Cloud Practitioner</h3>
+<h3 align="center"> <br><br> AWS Certified Cloud Practitioner</h3>
 <h3 align="center"> Data Scientist<br><br> Problem solver ranking in the top 10% worldwide in LeetCode contests</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedamer8&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedamer8" /> </p>
